@@ -1,0 +1,2 @@
+# groupledger
+Group accounting tracker
